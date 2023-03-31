@@ -1,6 +1,4 @@
-import { useState, useRef } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useRef } from 'react'
 import Editor from "@monaco-editor/react"
 import * as Y from "yjs"
 import { WebrtcProvider } from "y-webrtc"
